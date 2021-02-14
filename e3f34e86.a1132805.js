@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[42],{110:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Dev-Doctor in Play Store now","permalink":"/blog/2021/02/14/dev-doctor-in-playstore-now"},{"title":"Dev-Doctor 1.0 Released","permalink":"/blog/dev-doctor-1.0-released"}]}')}}]);
