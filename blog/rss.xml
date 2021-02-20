@@ -4,10 +4,17 @@
         <title>Linwood Blog</title>
         <link>https://linwood.tk/blog</link>
         <description>Linwood Blog</description>
-        <lastBuildDate>Wed, 17 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 LinwoodCloud.</copyright>
+        <item>
+            <title><![CDATA[Dev-Doctor 1.2.0]]></title>
+            <link>https://linwood.tk/blog/2021/02/20/dev-doctor-1.2.0</link>
+            <guid>Dev-Doctor 1.2.0</guid>
+            <pubDate>Sat, 20 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[* Add heroes]]></description>
+        </item>
         <item>
             <title><![CDATA[Dev-Doctor 1.1.1]]></title>
             <link>https://linwood.tk/blog/2021/02/17/dev-doctor-1.1.1</link>
