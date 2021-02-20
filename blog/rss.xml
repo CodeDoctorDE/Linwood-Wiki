@@ -16,6 +16,13 @@
             <description><![CDATA[* Add heroes]]></description>
         </item>
         <item>
+            <title><![CDATA[Dev-Doctor 1.2.1]]></title>
+            <link>https://linwood.tk/blog/2021/02/20/dev-doctor-1.2.1</link>
+            <guid>Dev-Doctor 1.2.1</guid>
+            <pubDate>Sat, 20 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[* Fix backend user]]></description>
+        </item>
+        <item>
             <title><![CDATA[Dev-Doctor 1.1.1]]></title>
             <link>https://linwood.tk/blog/2021/02/17/dev-doctor-1.1.1</link>
             <guid>Dev-Doctor 1.1.1</guid>

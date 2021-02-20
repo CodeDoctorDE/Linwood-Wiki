@@ -16,6 +16,13 @@
         <summary type="html"><![CDATA[* Add heroes]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dev-Doctor 1.2.1]]></title>
+        <id>Dev-Doctor 1.2.1</id>
+        <link href="https://linwood.tk/blog/2021/02/20/dev-doctor-1.2.1"/>
+        <updated>2021-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[* Fix backend user]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dev-Doctor 1.1.1]]></title>
         <id>Dev-Doctor 1.1.1</id>
         <link href="https://linwood.tk/blog/2021/02/17/dev-doctor-1.1.1"/>
