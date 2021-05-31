@@ -37,18 +37,18 @@
         <summary type="html"><![CDATA[* Fixing api version bug]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dev-Doctor has Crowdin]]></title>
-        <id>Dev-Doctor has Crowdin</id>
-        <link href="https://linwood.tk/blog/2021/04/03/dev-doctor-crowdin"/>
-        <updated>2021-04-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Help us to bring Dev-Doctor to the world.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dev-Doctor 1.3.0]]></title>
         <id>Dev-Doctor 1.3.0</id>
         <link href="https://linwood.tk/blog/2021/04/03/dev-doctor-1.3.0"/>
         <updated>2021-04-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[* Add desktop support (windows, linux)]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dev-Doctor has Crowdin]]></title>
+        <id>Dev-Doctor has Crowdin</id>
+        <link href="https://linwood.tk/blog/2021/04/03/dev-doctor-crowdin"/>
+        <updated>2021-04-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Help us to bring Dev-Doctor to the world.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dev-Doctor 1.2.3]]></title>
