@@ -1,1 +1,0 @@
-(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[2404],{822:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"dev-doctor","name":"dev-doctor","count":14,"permalink":"/blog/tags/dev-doctor"}')}}]);

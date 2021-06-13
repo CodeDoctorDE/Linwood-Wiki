@@ -4,10 +4,17 @@
         <title>Linwood Blog</title>
         <link>https://linwood.tk/blog</link>
         <description>Linwood Blog</description>
-        <lastBuildDate>Wed, 12 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 LinwoodCloud.</copyright>
+        <item>
+            <title><![CDATA[Launcher released!]]></title>
+            <link>https://linwood.tk/blog/2021/06/13/launcher-released</link>
+            <guid>Launcher released!</guid>
+            <pubDate>Sun, 13 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I released a new project named Linwood Launcher. It's currently a website where you can pin your favorite app and your favorite search engine and customize it. Try it out at .]]></description>
+        </item>
         <item>
             <title><![CDATA[Dev-Doctor 1.5.2]]></title>
             <link>https://linwood.tk/blog/2021/05/12/dev-doctor-1.5.2</link>
